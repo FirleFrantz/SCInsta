@@ -86,7 +86,7 @@ A feature-rich tweak for Instagram on iOS!\
 ### Run build script
 ```sh
 $ chmod +x build.sh
-$ ./build.sh <sideload/rootless/rootful>
+$ ./build.sh sideload
 ```
 
 ### Sideloading
